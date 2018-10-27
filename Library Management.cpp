@@ -1,4 +1,4 @@
-//Portion of source codes credit goes to a website where i found this project(not the whole project), and rest of the code done by me(Mahmudul Maruf)..
+//Portion of source codes credit goes to http://codewithc.com where i found this project(not the whole project), and rest of the code done by me(Mahmudul Maruf)..
 //01-01-2015 as a final project of our course
 #include <bits/stdc++.h>
 #include <conio.h>
